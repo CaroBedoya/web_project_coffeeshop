@@ -149,6 +149,10 @@
   gap: 40px;
 }
 
+.iframe__recipes {
+  border: none;
+}
+
 .recipes__video-caption {
   color: #ffffff;
   font-family: "Inter";
